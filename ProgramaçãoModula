@@ -1,0 +1,12 @@
+public class Soma {
+		public static int divisao(int num1, int num2){
+			return (num1 / num2);
+			}
+			public static int multiplicacao(int num1, int num2){
+			return (num1 * num2);
+			}
+			public static void main(String[] args) {
+			System.out.println(Soma.divisao(2300, 15));
+			System.out.println(Soma.multiplicacao( 20, 10));
+			}
+			}
